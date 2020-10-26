@@ -1,3 +1,5 @@
 changed master 1
 initial DevA
 initial devB
+modified DevB
+modified DevB 2
