@@ -1,4 +1,4 @@
 settings1 global
-settings2 global
+settings2 new_global
 settings3 global
-settings4 global
+settings4 new_global
