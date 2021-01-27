@@ -3,3 +3,5 @@ initial DevA
 initial devB
 modified DevB
 modified DevB 2
+new line
+another new line
